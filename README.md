@@ -5,16 +5,26 @@
 ***QUESTÃO 1***: 
 <br>
 Observe o trecho de código abaixo:
-
+<br>
+<br>
 int INDICE = 13, SOMA = 0, K = 0;
+<br>
 enquanto K < INDICE faça
+<br>
 {
+<br>
 K = K + 1;
+<br>
 SOMA = SOMA + K;
+<br>
 }
+<br>
 imprimir(SOMA);
+<br>
+<br>
 Ao final do processamento, qual será o valor da variável SOMA?
-
+<br>
+<br>
 ***Resposta:*** O valor da variável SOMA será 91, ao final do processamento.
 <br>
 <br>
@@ -71,18 +81,25 @@ b) Evite usar funções prontas, como, por exemplo, reverse;
 ***Solução:*** Desenvolvi um programa que realiza a inversão dos caracteres de uma string sem recorrer ao uso de funções pré-existentes.
 <br>
 ***Resposta:***
+<br>
 lisarB
+<br>
 acíuS
+<br>
 oãpaJ
+<br>
 arretalgnI
+<br>
 lagutroP
+<br>
 AUE
+<br>
 *@#idE
 <br>
 <br>
 ***Observações:*** 
 <br>
-O programa define uma função denominada "reversaString" que recebe como entrada um array de caracteres e restitui a string invertida. A referida função percorre o array de caracteres, realizando a troca dos elementos entre a extremidade inicial e final até que os índices se entrecruzem. A função principal (main) cria três strings exemplares e exibe suas versões invertidas utilizando a função "reversaString".
+O programa define uma função denominada "reversaString" que recebe como entrada um array de caracteres e restitui a string invertida. A referida função percorre o array de caracteres, realizando a troca dos elementos entre a extremidade inicial e final até que os índices se entrecruzem. A função principal (main) cria strings exemplares e exibe suas versões invertidas utilizando a função "reversaString".
 
 ## *Informações acerca da realização do teste:*
 
